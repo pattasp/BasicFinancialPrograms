@@ -1,3 +1,3 @@
-This GitRepository will contain some introductory programs for Financial concepts.
-Emphasis will be firstly given in the Pricing of the Derivatives using different methods such as 
-BSM,Monte Carlo sims etc..
+This GitRepository will contain programs for Derivatives Pricing Models.
+Pricing of the Derivatives will be done by using different methods such as 
+BSM,Monte Carlo Simulations,Finite Difference Numerical Approximations etc.
